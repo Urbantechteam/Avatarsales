@@ -27,3 +27,11 @@ Avatarsales/ ├── images/
 # Lógica principal: manejo de sesión, QR, y funcionalidades └── README.md 
 # Documentación del proyecto (¡este archivo!)
 
+## 🚀 Características Principales
+
+- ✅ **Sistema de sesión con QR**: Genera y escanea un código QR para autenticar usuarios.
+- 🖼️ **Galería de avatares**: Muestra imágenes de forma dinámica (se puede expandir con JavaScript).
+- 🎨 **Diseño limpio y moderno**: Basado en CSS puro, sin frameworks externos.
+- 📱 **Responsivo**: Funciona en móviles, tablets y escritorio.
+- 📦 **Ligero y rápido**: Sin dependencias externas, ideal para despliegue rápido.
+
