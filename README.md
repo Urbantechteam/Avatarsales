@@ -1,39 +1,36 @@
-<!-- Encabezado con badge de lenguajes y estado -->
+<!-- Encabezado con badges de React, estado, y CI -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-47.6%25-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-45.7%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-6.7%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-18.2.0-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Status-Development-007BFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-007EC6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI-Not+Set-0055A4?style=for-the-badge" />
 </p>
 
 ---
 
-# 🛒 AvatarSales — Plataforma de Ventas de Avatares Digitales
+# 🛒 AvatarSales — Plataforma de Ventas de Avatares Digitales (React)
 
 > **Proyecto IA** — Desarrollado por *Urbantechteam*  
 > 📅 Última actualización: 3 horas atrás (commit inicial)
 
-**AvatarSales** es una aplicación web minimalista y funcional diseñada para la exhibición y venta de avatares digitales, con soporte para autenticación mediante **Session ID QR**. Ideal para proyectos de IA, NFTs, gaming o comunidades virtuales.
+**AvatarSales** es una aplicación web moderna construida con **React**, diseñada para la exhibición y venta de avatares digitales, con sistema de autenticación mediante **Session ID QR**. Ideal para proyectos de IA, NFTs, gaming o comunidades virtuales.
 
 ---
 
-## 📁 Estructura del Proyecto
-Avatarsales/ ├── images/ 
-# Carpeta para almacenar avatares, iconos y assets visuales ├── index.html
-# Página principal con la interfaz de usuario ├── style.css 
-# Hoja de estilos CSS para diseño responsivo y moderno ├── app.js 
-# Lógica principal: manejo de sesión, QR, y funcionalidades └── README.md 
-# Documentación del proyecto (¡este archivo!)
+## 🖼️ Demo Visual
 
-## 🚀 Características Principales
+![AvatarSales Demo](https://i.imgur.com/6Z1kQ9l.png)  
+*Interfaz principal: Galería de avatares con sistema de sesión QR.*
 
-- ✅ **Sistema de sesión con QR**: Genera y escanea un código QR para autenticar usuarios.
-- 🖼️ **Galería de avatares**: Muestra imágenes de forma dinámica (se puede expandir con JavaScript).
-- 🎨 **Diseño limpio y moderno**: Basado en CSS puro, sin frameworks externos.
-- 📱 **Responsivo**: Funciona en móviles, tablets y escritorio.
-- 📦 **Ligero y rápido**: Sin dependencias externas, ideal para despliegue rápido.
+![QR Scan Demo](https://i.imgur.com/8vLqJ7P.gif)  
+*Demo animada: Escaneo del QR para iniciar sesión.*
 
-·Colaborar
-¡Bienvenidos los PRs! Si quieres mejorar el diseño, agregar funcionalidades o corregir bugs, haz un fork y envía tu propuesta.
+> 🔹 *Reemplaza estas imágenes con capturas reales de tu app React.*  
+> 🔹 *Puedo ayudarte a generar un GIF animado si me describes el flujo.*
+
+---
+
+## 📁 Estructura del Proyecto (React)
