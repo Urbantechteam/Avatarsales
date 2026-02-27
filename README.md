@@ -20,3 +20,10 @@
 ---
 
 ## 📁 Estructura del Proyecto
+Avatarsales/ ├── images/ 
+# Carpeta para almacenar avatares, iconos y assets visuales ├── index.html
+# Página principal con la interfaz de usuario ├── style.css 
+# Hoja de estilos CSS para diseño responsivo y moderno ├── app.js 
+# Lógica principal: manejo de sesión, QR, y funcionalidades └── README.md 
+# Documentación del proyecto (¡este archivo!)
+
