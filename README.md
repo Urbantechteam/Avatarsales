@@ -35,3 +35,5 @@ Avatarsales/ ├── images/
 - 📱 **Responsivo**: Funciona en móviles, tablets y escritorio.
 - 📦 **Ligero y rápido**: Sin dependencias externas, ideal para despliegue rápido.
 
+·Colaborar
+¡Bienvenidos los PRs! Si quieres mejorar el diseño, agregar funcionalidades o corregir bugs, haz un fork y envía tu propuesta.
